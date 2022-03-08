@@ -36,4 +36,4 @@ async def on_message_edit(before, after):
 async def on_reaction_add(reaction, user):
     await reaction.message.channel.send(f'{user} reacted with {reaction.emoji}')
 # Token on Developer portal
-client.run('OTI2NzI1OTM0MDY3OTA4NjMw.Yc_2yA.bD3HzEDt4po68FWSA_caKBzol7o') 
+client.run('Paste token here') 
